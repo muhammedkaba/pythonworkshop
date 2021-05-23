@@ -1,0 +1,35 @@
+import pyautogui
+import time
+
+time.sleep(3)
+while True:
+    pyautogui.keyDown("backspace")
+    time.sleep(3)
+    pyautogui.keyDown("4")
+
+
+    # pyautogui.keyDown("w")
+    # time.sleep(0.1)
+    # pyautogui.mouseDown()
+    # time.sleep(8)
+    # pyautogui.keyUp("w")
+    # pyautogui.mouseUp()
+    # pyautogui.mouseDown()
+    # pyautogui.keyDown("w")
+    # time.sleep(8)
+    # pyautogui.keyUp("w")
+    # pyautogui.mouseUp()
+    # pyautogui.keyDown("a")
+    # pyautogui.keyUp("a")
+    # pyautogui.keyDown("s")
+    # pyautogui.mouseDown()
+    # time.sleep(8)
+    # pyautogui.keyUp("s")
+    # pyautogui.mouseUp()
+    # pyautogui.mouseDown()
+    # pyautogui.keyDown("s")
+    # time.sleep(8)
+    # pyautogui.keyUp("s")
+    # pyautogui.mouseUp()
+    # pyautogui.keyDown("a")
+    # pyautogui.keyUp("a")
